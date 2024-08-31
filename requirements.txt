@@ -1,0 +1,4 @@
+opencv-python
+numpy
+pandas
+sqlite3 # or mysql-connector-python for MySQL
